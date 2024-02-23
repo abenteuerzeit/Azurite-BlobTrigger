@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "_2402160050000599": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7157",
+      "launchBrowser": false
+    }
+  }
+}
