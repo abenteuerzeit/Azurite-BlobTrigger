@@ -1,0 +1,43 @@
+{
+  "masterKey": {
+    "name": "master",
+    "value": "74PlCKC8Rz5NmApO_oDiWqTYN-AUneNBSLgNNQKLKOvPAzFuBnPjZw==",
+    "encrypted": false
+  },
+  "functionKeys": [
+    {
+      "name": "default",
+      "value": "Zw7e7-ZPAabQ4UksQRee4ny70VEcq5bvGn4lgoru-EH-AzFuiTC03A==",
+      "encrypted": false
+    }
+  ],
+  "systemKeys": [],
+  "hostName": "localhost:7071",
+  "instanceId": "0000000000000000000000002DFDC145",
+  "source": "runtime",
+  "decryptionKeyId": ""
+}{
+  "masterKey": {
+    "name": "master",
+    "value": "74PlCKC8Rz5NmApO_oDiWqTYN-AUneNBSLgNNQKLKOvPAzFuBnPjZw==",
+    "encrypted": false
+  },
+  "functionKeys": [
+    {
+      "name": "default",
+      "value": "Zw7e7-ZPAabQ4UksQRee4ny70VEcq5bvGn4lgoru-EH-AzFuiTC03A==",
+      "encrypted": false
+    }
+  ],
+  "systemKeys": [
+    {
+      "name": "blobs_extension",
+      "value": "veF3l9PLc8gzpOrAW7T-NCojB1Iqw_NNuSmBPfxKD4RvAzFuYFnb6w==",
+      "encrypted": false
+    }
+  ],
+  "hostName": "localhost:7071",
+  "instanceId": "0000000000000000000000002DFDC145",
+  "source": "runtime",
+  "decryptionKeyId": ""
+}{"Timestamp":"2024-02-23T12:31:07.9435689Z","NumberOfCores":4,"FunctionSnapshots":{}}{"Timestamp":"2024-02-23T12:49:39.9656529Z","NumberOfCores":4,"FunctionSnapshots":{"SharedBlobQueueListener":{"Concurrency":1}}}{"Timestamp":"2024-02-23T12:53:20.2338399Z","NumberOfCores":4,"FunctionSnapshots":{"SharedBlobQueueListener":{"Concurrency":2}}}
